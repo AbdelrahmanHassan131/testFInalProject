@@ -1,8 +1,6 @@
-/*
- * main.c
- *
- *  Created on: May 17, 2023
- *      Author: Abdelrahman
- */
+#include "avr/io.h"
 
-
+int main()
+{
+	return 0;
+}
